@@ -1,4 +1,4 @@
-### Hi there 👋 <h2>Hola! Soy Santiago👋</h2>
+<h2>Hola! Soy Santiago👋</h2>
 
 <h3>Acerca de mí 👨🏻•💻</h3>
 
