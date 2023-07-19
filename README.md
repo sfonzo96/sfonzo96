@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 <h2>Hola! Soy Santiago👋</h2>
 
-<!--
-**sfonzo96/sfonzo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Acerca de mí 👨🏻•💻</h3>
 
-Here are some ideas to get you started:
+- 🌱 Soy estudiante de la Tecnicatura en Desarrollo de Software
+- 👨🏻‍💻 Mis áreas de interés en IT son el desarrollo web, blockchain y la ciberseguridad
+- ✨ Otros hobbies que tengo son la música 🥁 y la química 👨🏻‍🔬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS | Express | MongoDB
+
+<h3>🔎Por investigar</h3>
+
+- 🔧 &nbsp; C# | Golang | Python
+
+<h3>Contacto</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-santiagofonzo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagofonzo/)](https://www.linkedin.com/in/santiagofonzo/)
