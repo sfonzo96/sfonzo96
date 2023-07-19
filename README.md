@@ -1,6 +1,6 @@
 <h2>Hola! Soy Santiago👋</h2>
 
-<h3>Acerca de mí 👨🏻•💻</h3>
+<h3>👨🏻•💻 Acerca de mí</h3>
 
 - 🌱 Soy estudiante de la Tecnicatura en Desarrollo de Software
 - 👨🏻‍💻 Mis áreas de interés en IT son el desarrollo web, blockchain y la ciberseguridad
@@ -10,7 +10,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS | Express | MongoDB
 
-<h3>🔎Por investigar</h3>
+<h3>🔎 Por investigar</h3>
 
 - 🔧 &nbsp; C# | Golang | Python
 
