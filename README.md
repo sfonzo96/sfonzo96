@@ -3,7 +3,7 @@
 <h3>👨🏻💻 Acerca de mí</h3>
 
 - 🌱 Soy estudiante de la Tecnicatura en Desarrollo de Software
-- 👨🏻‍💻 Mis áreas de interés en IT son el desarrollo web, blockchain y la ciberseguridad
+- 👨🏻‍💻 Mis áreas de interés en IT son el desarrollo web, la ciberseguridad y la infraestructura cloud.
 - ✨ Otros hobbies que tengo son la música 🥁 y la química 👨🏻‍🔬
 
 <h3>🛠 Stack</h3>
