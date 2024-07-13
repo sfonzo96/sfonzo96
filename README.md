@@ -8,9 +8,9 @@
 
 <h3>🛠 Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS | Express | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | Express | MongoDB | SQL
 
-<h3>🔎 Por investigar</h3>
+<h3>🔎 Por investigar y aprender</h3>
 
 - 🔧 &nbsp; C# | Golang | Python
 
