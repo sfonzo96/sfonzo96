@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - **Frontend:**  React, Winforms (w VB.NET or C#)  
-- **Backend:** Node.JS (Express), PHP (Slim), SQL (MySQL, MSSQL)  
+- **Backend:** Node.JS (Express), PHP (Slim), SQL (MySQL, MSSQL), NoSQL (MongoDB)
 - **Tools / Others:** Docker, Bash, Debian Linux
 - **Learning / Exploring:** Golang, NestJS
 
